@@ -1,0 +1,14 @@
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\bin\Debug\net8.0\tipdonusumleri.exe
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\bin\Debug\net8.0\tipdonusumleri.deps.json
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\bin\Debug\net8.0\tipdonusumleri.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\bin\Debug\net8.0\tipdonusumleri.dll
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\bin\Debug\net8.0\tipdonusumleri.pdb
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.dll
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\refint\tipdonusumleri.dll
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.pdb
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\tipdonusumleri.genruntimeconfig.cache
+c:\Users\defeatedbynone\Desktop\cs#\tipdonusumleri\obj\Debug\net8.0\ref\tipdonusumleri.dll
